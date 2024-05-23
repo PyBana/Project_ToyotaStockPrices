@@ -10,3 +10,7 @@ Features
 - Data Cleaning: Utilize Pandas to clean and prepare historical stock price data.
 - Data Analysis: Use NumPy and Pandas for detailed analysis to uncover key trends and patterns.
 - Data Visualization: Create insightful charts and graphs using Matplotlib.
+
+Data Source
+
+The stock price data for Toyota was sourced from Yahoo Finance.
