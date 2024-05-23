@@ -19,6 +19,9 @@ Objectives
 - Calculate Bollinger Bands
 - Find relationship between daily returns and volume
 
+Results
+
+Please open ToyotaStockPrices.ipynb to see the results.
 
 Data Source
 
